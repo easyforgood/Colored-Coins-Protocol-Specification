@@ -7,11 +7,11 @@
 1. [Benefits](../../wiki/Benefits)
 
 ## Technical
-1. [Coloring Scheme](../../wiki/Coloring-Scheme)
+1. [Coloring Scheme](../../blob/aggregatable_assets/wiki/Coloring-Scheme.md)
   1. [OP_CODEs](../../wiki/OP_CODEs)
-  1. [Transfer Instructions](../../wiki/Transfer-Instructions)
+  1. [Transfer Instructions](../../blob/aggregatable_assets/wiki/Transfer-Instructions.md)
   1. [Number Encoding](../../wiki/Number-Encoding)
-  1. [Asset ID](../../wiki/Asset-ID)
+  1. [Asset ID](../../blob/aggregatable_assets/wiki/Asset-ID.md)
   1. [Colored Addresses](../../wiki/Colored-Addresses)
   1. [Asset Verification](../../wiki/Asset-Verification)
 1. [Metadata Handling](../../wiki/Metadata)
